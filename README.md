@@ -1,5 +1,5 @@
-# Tobias_Portfolio
-Data science portfolio covering various topics
+# Tobias Berger - Data Scientist
+Hi there!
 
 # [Project 1: TidyTuesday Contributions - Overview](https://github.com/TobiasBergerData/TidyTuesday_Python)
 * TidyTuesday is a weekly social data project.
