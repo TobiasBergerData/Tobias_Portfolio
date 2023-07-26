@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: TidyTuesday Contributions - Overview</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 26 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1/</guid>
+      <description>TidyTuesday is a weekly social data project. It provides interesting data regularly and invites you to engage with it. I participate regularly, using Python and Jupyter Notebook, to test out new data science techniques, libraries or plots. All my analyses and visualizations of TidyTuesday datasets are posted here - code and results. The topic range is huge, from climate data to mountain climbers. Link to GitHub Repository
+Global Surface Temperature Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/about/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/about/</guid>
+      <description>Data Science, Research and Analysis are my passions. My name is Tobias Berger and I have been working in these fields for the last 6 years. Coming from a journalism background, I completed a PhD in sports economics, examining decision-making biases in the management of basketball teams. After this I held an analyst position doing futures research for a high-quality corporate foresight think tank. Meanwhile I started working for an NGO in the climate realm.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/contact/</guid>
+      <description>Follow and contact me via these channels.
+Platform URL LinkedIn: https://www.linkedin.com/in/tobias-berger/ Twitter: https://twitter.com/_prospecttheory GitHub: https://github.com/TobiasBergerData Email: tobias.berger@gmx.net </description>
+    </item>
+    
+  </channel>
+</rss>

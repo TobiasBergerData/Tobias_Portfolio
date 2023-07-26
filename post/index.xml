@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/</link>
+    <description>Recent content in Projects on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: TidyTuesday Contributions - Overview</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 26 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1/</guid>
+      <description>TidyTuesday is a weekly social data project. It provides interesting data regularly and invites you to engage with it. I participate regularly, using Python and Jupyter Notebook, to test out new data science techniques, libraries or plots. All my analyses and visualizations of TidyTuesday datasets are posted here - code and results. The topic range is huge, from climate data to mountain climbers. Link to GitHub Repository
+Global Surface Temperature Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
