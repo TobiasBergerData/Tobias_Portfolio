@@ -8,14 +8,14 @@ Data science portfolio covering various topics
 * All my analyses and visualizations of TidyTuesday datasets are posted here - code and results.
 * The topic range is huge, from climate data to mountain climbers.
 ## Global Surface Temperature
-![](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2023_Week%2028_Global_Surface_Temperatures.png)
+![Plot_Surface](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2023_Week%2028_Global_Surface_Temperatures.png)
 
 ## Himalayan Climbers
-![](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2020_Week%2039_Himalaya%20Climbers.png)
+![Plot_Himalaya](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2020_Week%2039_Himalaya%20Climbers.png)
 
 ## Meteorites
-![](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_1.png)
-![](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_2.png)
+![Plot_Meteorites1](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_1.png)
+![Plot_Meteorites1](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_2.png)
 
 
 
