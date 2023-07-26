@@ -11,7 +11,7 @@ Data science portfolio covering various topics
 ![](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2023_Week%2028_Global_Surface_Temperatures.png)
 
 ## Himalayan Climbers
-![]([https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2023_Week%2028_Global_Surface_Temperatures.png)
+![](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2023_Week%2028_Global_Surface_Temperatures.png)
 
 
 
