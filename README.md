@@ -13,6 +13,11 @@ Data science portfolio covering various topics
 ## Himalayan Climbers
 ![](https://github.com/TobiasBergerData/Tobias_Portfolio/blob/main/images/TidyTuesday_2020_Week%2039_Himalaya%20Climbers.png)
 
+## Meteorites
+![](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_1.png)
+![](https://github.com/TobiasBergerData/TidyTuesday_Python/blob/main/Meteors/TidyTuesday_2019_Week%2024_Meteorite%20Impacts_2.png)
+
+
 
 
 
