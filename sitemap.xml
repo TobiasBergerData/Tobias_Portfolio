@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/</loc>
-    <lastmod>2023-07-26T10:58:08-04:00</lastmod>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/</loc>
+    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/</loc>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/music/</loc>
+    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2/</loc>
+    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
+    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/</loc>
     <lastmod>2023-07-26T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,11 +38,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/space/</loc>
-    <lastmod>2023-07-26T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
     <lastmod>2023-07-26T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
