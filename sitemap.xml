@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/</loc>
-    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
+    <lastmod>2023-10-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3/</loc>
+    <lastmod>2023-10-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/sports/</loc>
+    <lastmod>2023-10-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
+    <lastmod>2023-10-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -13,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2/</loc>
-    <lastmod>2023-07-30T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
     <lastmod>2023-07-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

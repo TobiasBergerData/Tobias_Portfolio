@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/sports/</link>
+    <description>Recent content in Sports on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Elo Rating System for Soccer</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 24 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3/</guid>
+      <description>An Elo Rating, or simply Elo, is a rating system used to measure the relative skill levels of players or teams in games and sports. It was originally developed for chess by Arpad Elo but has been widely adopted in various sports, including soccer. The Elo rating system provides a numerical representation of a player&amp;rsquo;s or team&amp;rsquo;s skill, making it easier to compare and rank them. In soccer, Elo ratings can be applied to both club teams and national teams, offering a standardized way to evaluate and rank their performances.</description>
+    </item>
+    
+  </channel>
+</rss>
