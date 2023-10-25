@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jul 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2: The Radiohead Project</title>
-      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2/</link>
+      <title>The Radiohead Project - Sentiment Analysis and Music</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</link>
       <pubDate>Sun, 30 Jul 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2/</guid>
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</guid>
       <description>I recently discovered this interesting data set , containing all studio album songs of one of my favorite bands of all time - Radiohead. I checked out how the band has progressed over time looking at their 9 studio albums. This meant examining hard facts like song durations and temporal profiles of their records. However I also analyzed softer dimensions like valence, lyrical density and sadness of the words sung.</description>
     </item>
     
