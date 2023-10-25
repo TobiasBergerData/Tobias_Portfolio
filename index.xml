@@ -6,7 +6,17 @@
     <description>Recent content in Data Science Portfolio on Tobias Berger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 01:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Soccer Strategy and Tactics Visually Using StatsBomb Data</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-4-visualizing-soccer-strategy-and-tactics/</link>
+      <pubDate>Wed, 25 Oct 2023 01:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-4-visualizing-soccer-strategy-and-tactics/</guid>
+      <description>In this little project, I was messing around with StatsBomb soccer data. I imagined myself being part of the German Women&amp;rsquo;s national team staff, analyzing the English team right before their finals game in the European Championship 2022.
+After finishing my PhD analyzing the NBA, I wanted to look at the sport I played as a teenager again, to see what the data and analytics landscape looks like. So keep this in mind, when reading my thoughts and checking my plots here.</description>
+    </item>
+    
     <item>
       <title>Elo Rating System for Soccer</title>
       <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3-elo-soccer/</link>
