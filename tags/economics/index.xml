@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/economics/</link>
+    <description>Recent content in Economics on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Oct 2023 02:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing and Visualizing Data of a Micro Credit Platform</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-5-kiva-micro-credits-data-analysis-and-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 02:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-5-kiva-micro-credits-data-analysis-and-visualization/</guid>
+      <description>Kiva.org is a non-profit organization that operates an online platform to facilitate micro-lending to individuals and small businesses mostly in the global south. The platform connects individual lenders with entrepreneurs and borrowers who need financial assistance to start or expand their businesses, access education, or improve their living conditions.
+In a recent project I got to work with some data of this organization. It was quite interesting to dive a little deeper into this field of micro credits and look at some underlying dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>
