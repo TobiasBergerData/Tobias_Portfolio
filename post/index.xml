@@ -55,13 +55,49 @@ After finishing my PhD analyzing the NBA, I wanted to look at the sport I played
     </item>
     
     <item>
-      <title>TidyTuesday Contributions - Overview</title>
+      <title>TidyTuesday: Meteorites</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.3-tidytuesday_meteorites/</link>
+      <pubDate>Fri, 28 Jul 2023 10:58:09 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.3-tidytuesday_meteorites/</guid>
+      <description>This dataset is all about meteorites, where they fell and when they fell! Data comes from the Meteoritical Society by way of NASA. If you want to find out more about meteorite classifications, check Wikipedia: https://en.wikipedia.org/wiki/Meteorite_classification.
+I created a plot and added the code here.
+Link to GitHub Repository
+Meteorites Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday: Himalayan climbers</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.2-tidytuesday_himalayan-climbers/</link>
+      <pubDate>Thu, 27 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.2-tidytuesday_himalayan-climbers/</guid>
+      <description>The Himalayan Database is a compilation of records for all expeditions that have climbed in the Nepal Himalaya. The database is based on the expedition archives of Elizabeth Hawley, a longtime journalist based in Kathmandu, and it is supplemented by information gathered from books, alpine journals and correspondence with Himalayan climbers.
+The data cover all expeditions from 1905 through Spring 2019 to more than 465 significant peaks in Nepal. Also included are expeditions to both sides of border peaks such as Everest, Cho Oyu, Makalu and Kangchenjunga as well as to some smaller border peaks.</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday: Global Surface Temperature</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.1-tidytuesday_global-surface-temperature/</link>
+      <pubDate>Wed, 26 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1.1-tidytuesday_global-surface-temperature/</guid>
+      <description>The data this week comes from the NASA GISS Surface Temperature Analysis (GISTEMP v4). This datasets are tables of global and hemispheric monthly means and zonal annual means. They combine land-surface, air and sea-surface water temperature anomalies (Land-Ocean Temperature Index, L-OTI). The values in the tables are deviations from the corresponding 1951-1980 means.
+I created a plot and added the code here.
+Link to GitHub Repository
+Global Surface Temperature Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>TidyTuesday: Meteorites</title>
       <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1-tidytuesday/</link>
       <pubDate>Wed, 26 Jul 2023 10:58:08 -0400</pubDate>
       
       <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1-tidytuesday/</guid>
-      <description>TidyTuesday is a weekly social data project. It provides interesting data regularly and invites you to engage with it. I participate regularly, using Python and Jupyter Notebook, to test out new data science techniques, libraries or plots. All my analyses and visualizations of TidyTuesday datasets are posted here - code and results. The topic range is huge, from climate data to mountain climbers. Link to GitHub Repository
-Global Surface Temperature Link to GitHub Repository</description>
+      <description>This dataset is all about meteorites, where they fell and when they fell! Data comes from the Meteoritical Society by way of NASA. If you want to find out more about meteorite classifications, check Wikipedia: https://en.wikipedia.org/wiki/Meteorite_classification.
+I created a plot and added the code here.
+Link to GitHub Repository
+Meteorites Link to GitHub Repository</description>
     </item>
     
   </channel>

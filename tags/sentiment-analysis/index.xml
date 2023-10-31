@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment Analysis on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/sentiment-analysis/</link>
+    <description>Recent content in Sentiment Analysis on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Radiohead Project - Sentiment Analysis and Music</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</link>
+      <pubDate>Sun, 30 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</guid>
+      <description>I recently discovered this interesting data set , containing all studio album songs of one of my favorite bands of all time - Radiohead. I checked out how the band has progressed over time looking at their 9 studio albums. This meant examining hard facts like song durations and temporal profiles of their records. However I also analyzed softer dimensions like valence, lyrical density and sadness of the words sung.</description>
+    </item>
+    
+  </channel>
+</rss>

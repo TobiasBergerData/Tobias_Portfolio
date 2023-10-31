@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Modeling on Tobias Berger</title>
+    <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/data-modeling/</link>
+    <description>Recent content in Data Modeling on Tobias Berger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/data-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elo Rating System for Soccer</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3-elo-soccer/</link>
+      <pubDate>Tue, 24 Oct 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-3-elo-soccer/</guid>
+      <description>An Elo Rating, or simply Elo, is a rating system used to measure the relative skill levels of players or teams in games and sports. It was originally developed for chess by Arpad Elo but has been widely adopted in various sports, including soccer. The Elo rating system provides a numerical representation of a player&amp;rsquo;s or team&amp;rsquo;s skill, making it easier to compare and rank them. In soccer, Elo ratings can be applied to both club teams and national teams, offering a standardized way to evaluate and rank their performances.</description>
+    </item>
+    
+    <item>
+      <title>The Radiohead Project - Sentiment Analysis and Music</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</link>
+      <pubDate>Sun, 30 Jul 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-2-radiohead/</guid>
+      <description>I recently discovered this interesting data set , containing all studio album songs of one of my favorite bands of all time - Radiohead. I checked out how the band has progressed over time looking at their 9 studio albums. This meant examining hard facts like song durations and temporal profiles of their records. However I also analyzed softer dimensions like valence, lyrical density and sadness of the words sung.</description>
+    </item>
+    
+  </channel>
+</rss>
