@@ -6,7 +6,16 @@
     <description>Recent content in Climate on Tobias Berger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 02:58:08 -0400</lastBuildDate><atom:link href="https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Land use and land cover classification using Deep Learning</title>
+      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-6-satelite-image-classification-with-deep-learning/</link>
+      <pubDate>Sat, 28 Oct 2023 02:58:08 -0400</pubDate>
+      
+      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-6-satelite-image-classification-with-deep-learning/</guid>
+      <description>In this project I got to work with a fun dataset. The Sentinel-2 satellite images are openly and freely accessible provided in the Earth observation program Copernicus. A group of researchers put some of them together to create novel dataset consisting out of 10 classes with in total 27,000 labeled and geo-referenced images. I used a deep learning approach, utilizing the RESNET50 architecture, to find an algorithm to classify the land use and land cover of the 64x64 pixel pictures as accurate as possible.</description>
+    </item>
+    
     <item>
       <title>TidyTuesday Contributions - Overview</title>
       <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1-tidytuesday/</link>

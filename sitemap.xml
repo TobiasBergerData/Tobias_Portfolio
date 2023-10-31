@@ -2,22 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/geography/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-6-satelite-image-classification-with-deep-learning/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/space/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
+    <lastmod>2023-10-28T02:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-5-kiva-micro-credits-data-analysis-and-visualization/</loc>
     <lastmod>2023-10-25T02:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/</loc>
-    <lastmod>2023-10-25T02:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/economics/</loc>
-    <lastmod>2023-10-25T02:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/</loc>
     <lastmod>2023-10-25T02:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -47,17 +67,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/climate/</loc>
-    <lastmod>2023-07-26T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/nature/</loc>
-    <lastmod>2023-07-26T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobiasbergerdata.github.io/Tobias_Portfolio/tags/space/</loc>
     <lastmod>2023-07-26T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
