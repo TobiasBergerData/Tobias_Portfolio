@@ -41,17 +41,5 @@ Link to GitHub Repository
 Global Surface Temperature Link to GitHub Repository</description>
     </item>
     
-    <item>
-      <title>TidyTuesday: Meteorites</title>
-      <link>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1-tidytuesday/</link>
-      <pubDate>Wed, 26 Jul 2023 10:58:08 -0400</pubDate>
-      
-      <guid>https://tobiasbergerdata.github.io/Tobias_Portfolio/post/project-1-tidytuesday/</guid>
-      <description>This dataset is all about meteorites, where they fell and when they fell! Data comes from the Meteoritical Society by way of NASA. If you want to find out more about meteorite classifications, check Wikipedia: https://en.wikipedia.org/wiki/Meteorite_classification.
-I created a plot and added the code here.
-Link to GitHub Repository
-Meteorites Link to GitHub Repository</description>
-    </item>
-    
   </channel>
 </rss>
